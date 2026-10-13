@@ -9,7 +9,7 @@ It is a single static page (`index.html`) with no build step. Documentation live
 ```
 index.html        The whole page: markup, styles and a small script
 favicon.ico
-assets/img/       Logos, hero poster image, Open Collective QR
+assets/img/       Wordmark (light/dark), hero logo and poster, Open Collective QR
 assets/icons/     Feature illustrations
 assets/vid/       Hero background video (WebM + MP4)
 ```
